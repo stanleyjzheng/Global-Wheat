@@ -1,0 +1,4 @@
+classes = 1
+names = /content/darknet/data/obj.names
+backup = /simlinkwheat/darknetdata/backup
+train = /content/darknet/data/train.txt
